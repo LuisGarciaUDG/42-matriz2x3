@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426808820 source:c:\users\luis\dropbox\inco\programación\programa 42 (matriz 2x3)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
